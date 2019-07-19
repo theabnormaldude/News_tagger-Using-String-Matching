@@ -1,0 +1,413 @@
+M.Com
+B.Arch
+M.Arch
+B.Tech
+M.E.
+PhD
+Other
+MDS
+MBBS
+M.Pharm
+MPT
+BHM
+BBA
+Diploma
+BBM
+BMS
+BFT
+BBS
+BMM
+BSc
+B.Sc
+BIB
+BA
+MBA
+BIM
+PGP
+BFSc
+BPEd
+PGDM
+M.P.S.M.
+MMS
+LLM
+MS
+PGD+EMBA
+PGPEx
+BBA+MBA
+M.A.M.
+BBM+MBA
+BM/BAM + MAM
+B.Tech+MBA
+MFM
+MMM
+MBS
+MHRDM
+MFA
+M.Phil
+BFA
+MA
+B.E.
+BHMS
+BAMS
+BPT
+M.P.Th.
+CA
+BAF
+M.Tech
+LLB
+B.Com
+MCM
+MPM
+M.Des
+PGRI
+B.Ed
+B.Pharm
+B.Tech+M.Tech
+BS+MS
+BCA
+BA+LLB
+B.Com+LLB
+BBA+LLB
+MCh
+MHM
+BTTM
+BJMC
+MJMC
+MHA
+MMC
+M.Ed
+BS
+B.Plan
+B.F.A.D.
+MAJM
+BAJM
+B.Des
+MTM
+BBA + BDBM
+MCA + PGDCM
+BCA + BDCM
+BHMCT
+BMC
+PGPBA + MBA
+MSc+MBA
+B.Com+MBA
+B.Sc+LLB
+BBI
+BVSc
+GNM
+B.D.S.
+BA+B.Ed
+B.Sc+B.Ed
+B.Com. + B.Ed.
+B.B.A. + B.Ed.
+MTA
+MSW
+MFC
+M.Tech+PhD
+BSW LLB
+MSc
+BAM
+MAM
+BCA+MCA
+BSW
+MFM
+MFA
+M.Plan
+MCA
+PGD
+MD
+MS (Surgery)
+BDS
+ANM
+B.H.S.
+BVA
+MVA
+B.Pharm+M.Pharm
+B.Pharm+MBA
+M.Pharm+MBA
+B.Lib
+M.Lib
+B.Tech+MS
+M.T.A
+MIB
+B.Des+M.Des
+B.I.R.M
+BHM
+MSc+PhD
+PGPM
+B.Tech + L.L.M
+B.Tech+LLB
+MPEd
+BFTech
+BM+MAM
+B.O.T
+M.O.T
+B.B.A.+H.E.M.
+B.C.A.+M.C.A.
+B.P.T.
+BPMT
+BMLT
+Pharm.D
+BTC
+MBA+PGDM
+B.Com+M.Com
+B.Voc
+BUMS
+B.A.+B.Ed.
+BMMC
+M.Com.+M.B.A.
+M.F.A.+M.B.A.
+M.I.B.+M.B.A.
+B.M.M.
+B.A.+L.L.B.
+B.El.Ed
+MAMS
+MBM
+BNYS
+B.H.O.M.
+B.A.M.+M.A.M.
+BFM
+MFT
+Bachelor of Hospital Management
+BPP
+BHS
+MHM
+B.Mus
+M.Mus
+B.Tech+M.Tech
+MBE
+M.Sc + Ph.D
+BHRM
+B.Tech. + M.Sc.
+BLS+LLB
+MFSc
+BSc+MSc
+M.P.O.
+B.Text
+BIHA
+M.Text
+DNB
+B.S.W.
+R.A.N.M.
+R.G.N.M.
+M.F.A.D.
+M.F.R.M
+B.E.M
+B.S.+M.S.
+M.T.M.
+DM
+B.S.L. + LL.B
+MJMC+PGP
+LLB+LLM
+BHMCT+MBA
+BA+MA
+B.F.T.T.
+B.T.T.M.
+B.Optom
+M.Optom
+B.B.A. + L.L.B.
+MVSc
+BSMS
+BBA+MMS
+MPHW-Male
+MPHW-Female
+BVC
+BCA
+BBA-MBA
+BMS
+BLS+LLB
+B.Sc+MBA
+BFMM
+BBA+LLB
+M.Voc
+DM
+B.Tech+MBA
+B.Des. + M.B.A.
+BCA+MBA
+BCA+MSC
+B.Com. + M.Com.
+B.Ed+M.Ed
+Executive MBA
+Executive PGDM
+LLM+Ph.d
+M.Phil+PhD
+LLB+MBA
+LLM+MBA
+B.S. + M.TECH.
+B.TECH. + M.DES.
+B.S. + M.DES.
+B.S. + MBA
+MIM
+B.Com+MBA
+PGDBM
+Graduate Diploma Program
+INTERMEDIATE OF ARTS
+I.Sc
+Other
+High School
+B.Sc(Hons)
+B.Com (Hons.)
+BA (Hons.)
+MPH
+M.R.M
+BSc-ISM
+BSM
+MSM
+MURP
+MUP
+BBO
+M.Sc. + M.Tech.
+MFA
+MBL
+BPA
+MPA
+Integrated B.P.Ed
+BASLP
+MBA+PGPM
+BAM+MAM
+MHA
+Diploma + B.Tech
+Associate Degree
+Academy Profession
+Master of Letters
+Master of Research
+Pre-Master
+Masters
+Doctor of Business Administration
+Doctorate
+12th
+10th
+UG FOundation
+Post Baccalaureate Diploma
+M.T.T.M
+Master of Commerce
+Bachelor of Architecture
+Master of Architecture
+Bachelor of Technology
+Doctor of Philosophy
+Master of Dental Surgery
+Bachelor of Medicine and Bachelor of Surgery
+Master of Pharmacy
+Master of Physiotherapy
+Bachelor of Hotel Management
+Bachelor of Business Administration
+Bachelor of Business Management
+Bachelor of Management Studies
+Bachelor of Foreign Trade
+Bachelor of Business Studies
+Bachelor of Mass Media
+Bachelor of Science
+Bachelor of International Business Administration
+Bachelor of Arts
+Master of Business Administration
+Bachelor of Information Management
+Bachelor of Fishery Science
+Bachelor of Physical Education
+Post Graduate Diploma in Management
+Master of Management Studies
+Master of Law
+Master of Science
+Post Graduate Programme for Executives
+Master of Financial Management
+Master of Marketing Management
+Master in Human Resources Development Management
+Master of Fine Arts
+Master of Philosophy
+Bachelor of Fine Arts
+Master of Arts
+Bachelor of Homoeopathic Medicine and Surgery
+Bachelor of Ayurvedic Medicine and Surgery
+Bachelor of Physiotherapy
+Chartered Accountant
+Bachelor of Accounting and Finance
+Master of Technology
+Bachelor of Laws
+Bachelor of Commerce
+Master of Computer Management
+Master of Personnel Management
+Master of Design
+Bachelor of Education
+Bachelor of Pharmacy
+Bachelor of Computer Applications
+Master of Chirurgiae
+Master of Hotel Management
+Bachelor of Tourism and Travel Management
+Bachelor of Journalism and Mass Communication
+Master of Journalism and Mass Communication
+Master of Hospital Administration
+Master of Mass Communication
+Master of Education
+Bachelor of Science
+Bachelor of Planning
+Bachelor of Fashion and Apparel Design
+Bachelor of Design
+Master of Tourism Management
+Bachelor of Hotel Management and Catering Technology
+Bachelor of Mass Communication
+Bachelor of Banking and Insurance
+Bachelor of Veterinary Science
+General Nursing and Midwifery
+Master of Tourism Administration
+Master of Finance and Control
+Master of Science
+Bachelor of Applied Management
+Master of Applied Management
+Bachelor of Social Work
+Master of Fashion Management
+Master of Finance and Accounting
+Master of Planning
+Master of Computer Applications
+Doctor of Medicine
+Master of Surgery
+Bachelor of Dental Surgery
+Auxiliary Nursing and Midwifery
+Bachelor of Visual Arts
+Master of Visual Arts
+Bachelor of Library Sciences
+Master of Library Sciences
+Master of Internation Business
+Bachelor of Hospitality Management
+Post Graduate Program in Management
+Master of Physical Education
+Bachelor of Fashion Technology
+Bachelor of Occupational Therapy
+Master of Occupational Therapy
+Bachelor of Paramedical Technology
+Bachelor of Medical Lab Technology
+Doctor of Pharmacy
+Basic Teacher Certificate
+Bachelor of Vocation
+Bachelor of Unani Medicine and Surgery
+Bachelor of Multimedia Communication
+Bachelor of Elementary Education
+Master of Ayurvedic Medicine and Surgery
+Master of Business Management
+Bachelor of Naturopathy and Yogic Sciences
+Bachelor of Financial Markets
+Master of Foreign Trade
+Bachelor of Hospital Management
+Bachelor Preparatory Programme
+Bachelor of Home Science
+Master of Hospitality Management
+Bachelor of Music
+Master of Music
+Master of Business Economics
+Bachelor of Human Resource Management
+Master of Fisheries Science
+Bachelor of Textile
+Master of Textile
+Diplomate of National Board
+Master of Fashion and Apparel Design
+Doctorate of Medicine
+Bachelor of Optometry
+Master of Optometry
+Master of Veterinary Science
+Bachelor of Siddha Medicine and Surgery
+B.B.A. + M.M.S.
+Bachelor of Visual Communication
+B.L.S + BACHELOR OF LAW
+BFMM
+Master of Vocation
+Master of Information Management
+Post Graduate Diploma in Business Management
+Master of Public Health
